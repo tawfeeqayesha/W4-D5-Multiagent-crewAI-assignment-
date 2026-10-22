@@ -1,0 +1,38 @@
+Customer Query: how do i reset my password?
+
+========================================
+1. ASSISTANT'S ANSWER (Internal Knowledge Base):
+========================================
+To reset your password, click on 'Forgot Password' on the login page and follow the email instructions.
+
+========================================
+2. WEB SEARCH ASSISTANT'S ANSWER:
+========================================
+To reset your password, follow these steps based on the platform you’re using:
+
+1. **General Procedure**:
+   - Navigate to the login page of the service you are trying to access.
+   - Click on the 'Forgot Password?' link.
+   - Enter your registered email address and submit.
+   - Check your email for a password reset link and follow the instructions provided.
+
+2. **For Google Accounts**:
+   - Visit the Google account recovery page [here](https://support.google.com/accounts/answer/41078?hl=en&co=GENIE.Platform%3DAndroid).
+   - If using an Android device, go to Settings > Google > Security & sign-in > Password, and follow the prompts.
+
+3. **For Microsoft Accounts**:
+   - Go to the Microsoft account sign-in page [here](https://support.microsoft.com/en-us/accounts-billing/manage/reset-a-forgotten-microsoft-account-password).
+   - Click on ‘Forgot password?’ and follow the verification steps sent to your email.
+
+4. **For PlayStation Accounts**:
+   - Access your account settings on PlayStation [here](https://www.playstation.com/en-us/support/account/password-reset/).
+   - On your PS4 console, go to Settings > Account Management > Sign In to initiate the password reset.
+
+5. **For Apple Devices**:
+   - If you need to reset your Apple ID password, visit this support page [here](https://support.apple.com/en-us/118430) and follow the recommended steps.
+
+6. **Additional Resources**:
+   - If you encounter delays or issues, it is advised to check your spam folder for the reset email.
+   - For further assistance, you can refer to user guides or FAQs provided by the service, which often include specific instructions tailored for each situation.
+
+Make sure to create a strong new password and consider enabling two-factor authentication (if available) for enhanced security.
